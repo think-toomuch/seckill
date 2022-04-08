@@ -9,9 +9,7 @@ import java.io.IOException;
 import java.text.ParseException;
 
 /**
- * Created on 2020-07-21.
  *
- * @author wangxiaodong
  */
 public class Main {
 
